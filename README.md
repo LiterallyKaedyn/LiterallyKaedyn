@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🛠️ Tech Stack:
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=2C2D72)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
 
-<!--
-**Long-Winer12/Long-Winer12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats:
 
-Here are some ideas to get you started:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Long-Winer12&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Long-Winer12&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Long-Winer12&color=brightgreen&style=flat-square)

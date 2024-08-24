@@ -8,7 +8,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 
 ## 🖥 Software:
-![Visual Studio Code](https://img.shields.io/badge/Visual-Studio-Code-333333?style=flat)
+![Visual Studio Code](https://img.shields.io/badge/Visual-Studio-Code-333333)
 ![Plesk](https://img.shields.io/badge/-Plesk-333333?style=flat)
 ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat)
 ![Roblox Studio](https://img.shields.io/badge/Roblox-Studio-333333)

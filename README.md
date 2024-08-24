@@ -11,7 +11,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat)
 ![Plesk](https://img.shields.io/badge/-Plesk-333333?style=flat)
 ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat)
-![Roblox Studio](https://img.shields.io/badge/-Roblox-Studio-333333?style=flat)
+![Roblox Studio](https://img.shields.io/badge/-Roblox-Studio-333333)
 
 ## 📊 GitHub Stats:
 

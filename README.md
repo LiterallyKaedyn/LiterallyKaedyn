@@ -7,12 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 
-## 🖥 Software:
-![Visual Studio Code](https://img.shields.io/badge/-VScode-333333)
-![Plesk](https://img.shields.io/badge/-Plesk-333333?style=flat)
-![Replit](https://img.shields.io/badge/-Replit-333333?style=flat)
-![Roblox Studio](https://img.shields.io/badge/Roblox-Studio-333333)
-
 ## 📊 GitHub Stats:
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Long-Winer12&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff)

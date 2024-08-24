@@ -9,7 +9,6 @@
 
 ## 🖥 Software
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=white)
-![VScode](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=white)
 ![Plesk](https://img.shields.io/badge/-Plesk-333333?style=flat&logo=plesk&logoColor=white)
 ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-333333?style=flat&logo=roblox&logoColor=white)

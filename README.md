@@ -8,7 +8,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 
 ## 🖥 Software
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/static/v1?label=Visual%20Studio%20Code&message=Using%20Custom%20Image&color=333333&style=flat&logo=[https://your-image-host.com/path-to-your-image.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png))
 ![Plesk](https://img.shields.io/badge/-Plesk-333333?style=flat&logo=plesk&logoColor=white)
 ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit&logoColor=orange)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-333333?style=flat&logo=roblox&logoColor=white)

@@ -8,7 +8,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 
 ## 🖥 Software:
-![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=/main/vscode.png)
+![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=data:/main/vscode.png)
 ![Plesk]()
 
 ## 📊 GitHub Stats:

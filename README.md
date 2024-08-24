@@ -8,9 +8,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 
 ## 🖥 Software
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Plesk](https://img.shields.io/badge/-Plesk-333333?style=flat&logo=plesk&logoColor=white)
-![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit&logoColor=white)
+![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit&logoColor=orange)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-333333?style=flat&logo=roblox&logoColor=white)
 
 ## 📊 GitHub Stats:

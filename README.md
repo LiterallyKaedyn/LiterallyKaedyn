@@ -16,6 +16,7 @@
 ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit&logoColor=orange)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-333333?style=flat&logo=roblox&logoColor=white)
 ![Visual Studio Code](https://code.visualstudio.com/assets/apple-touch-icon.png)
+![Visual Studio Code](https://img.shields.io/static/v1?label=Visual%20Studio%20Code&message=Using%20Custom%20Image&color=333333&style=flat&logo=[https://code.visualstudio.com/assets/apple-touch-icon.png])
 
 ## 📊 GitHub Stats:
 
